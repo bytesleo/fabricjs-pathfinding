@@ -1,10 +1,20 @@
 {
     "name": "fabricjs-pathfinding",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Pathfinding based in Fabricjs",
     "scripts": {
         "start": "webpack --watch"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kevoj/fabricjs-pathfinding.git"
+    },
+    "author": "Leonardo Rico Guevara - https://github.com/kevoj",
+    "license": "MIT",
+    "keywords": [
+        "Pathfinding",
+        "fabrisjs"
+    ],
     "devDependencies": {
         "babel-core": "^6.0.20",
         "babel-loader": "^6.0.1",
